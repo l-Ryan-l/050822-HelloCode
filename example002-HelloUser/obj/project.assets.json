@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Обучение\\Digital Master\\5. Знакомство с языками (С#)\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\example002-HelloUser.csproj",
+      "projectUniqueName": "D:\\Обучение\\Digital Master\\5. Знакомство с языками С sharp\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\example002-HelloUser.csproj",
       "projectName": "example002-HelloUser",
-      "projectPath": "D:\\Обучение\\Digital Master\\5. Знакомство с языками (С#)\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\example002-HelloUser.csproj",
+      "projectPath": "D:\\Обучение\\Digital Master\\5. Знакомство с языками С sharp\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\example002-HelloUser.csproj",
       "packagesPath": "C:\\Users\\llRyanll\\.nuget\\packages\\",
-      "outputPath": "D:\\Обучение\\Digital Master\\5. Знакомство с языками (С#)\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\obj\\",
+      "outputPath": "D:\\Обучение\\Digital Master\\5. Знакомство с языками С sharp\\050822 - Лекция №1\\1. first_prog\\example002-HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\llRyanll\\AppData\\Roaming\\NuGet\\NuGet.Config"

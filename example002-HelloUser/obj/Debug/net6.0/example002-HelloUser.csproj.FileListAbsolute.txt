@@ -1,0 +1,30 @@
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.exe
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.deps.json
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.runtimeconfig.json
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.pdb
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.csproj.AssemblyReference.cache
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.AssemblyInfoInputs.cache
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.AssemblyInfo.cs
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.csproj.CoreCompileInputs.cache
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\refint\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.pdb
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.genruntimeconfig.cache
+D:\Обучение\Digital Master\5. Знакомство с языками (С#)\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\ref\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.csproj.AssemblyReference.cache
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.AssemblyInfoInputs.cache
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.AssemblyInfo.cs
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.csproj.CoreCompileInputs.cache
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\refint\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.pdb
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.exe
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.deps.json
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.runtimeconfig.json
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.dll
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\bin\Debug\net6.0\example002-HelloUser.pdb
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\example002-HelloUser.genruntimeconfig.cache
+D:\Обучение\Digital Master\5. Знакомство с языками С sharp\050822 - Лекция №1\1. first_prog\example002-HelloUser\obj\Debug\net6.0\ref\example002-HelloUser.dll
